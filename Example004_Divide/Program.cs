@@ -1,4 +1,4 @@
 ﻿// Программа для вычисления частного двух целых чисел
-int numberA = 10;
-int numberB = 5;
+int numberA = new Random().Next(1,10); // 1, 2, 3, ... 9
+int numberB = new Random().Next(1,10); // 1, 2, 3, ... 9
 Console.WriteLine(numberA / numberB);
