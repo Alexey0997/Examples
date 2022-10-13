@@ -1,0 +1,15 @@
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\Example004_Divide.csproj.AssemblyReference.cache
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\Example004_Divide.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\Example004_Divide.AssemblyInfoInputs.cache
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\Example004_Divide.AssemblyInfo.cs
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\Example004_Divide.csproj.CoreCompileInputs.cache
+D:\Users\USER1\Desktop\Examples\Example004_Divide\bin\Debug\net6.0\Example004_Divide.exe
+D:\Users\USER1\Desktop\Examples\Example004_Divide\bin\Debug\net6.0\Example004_Divide.deps.json
+D:\Users\USER1\Desktop\Examples\Example004_Divide\bin\Debug\net6.0\Example004_Divide.runtimeconfig.json
+D:\Users\USER1\Desktop\Examples\Example004_Divide\bin\Debug\net6.0\Example004_Divide.dll
+D:\Users\USER1\Desktop\Examples\Example004_Divide\bin\Debug\net6.0\Example004_Divide.pdb
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\Example004_Divide.dll
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\refint\Example004_Divide.dll
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\Example004_Divide.pdb
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\Example004_Divide.genruntimeconfig.cache
+D:\Users\USER1\Desktop\Examples\Example004_Divide\obj\Debug\net6.0\ref\Example004_Divide.dll
