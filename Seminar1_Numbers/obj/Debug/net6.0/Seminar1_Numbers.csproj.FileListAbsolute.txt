@@ -1,0 +1,15 @@
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\Seminar1_Numbers.csproj.AssemblyReference.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\Seminar1_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\Seminar1_Numbers.AssemblyInfoInputs.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\Seminar1_Numbers.AssemblyInfo.cs
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\Seminar1_Numbers.csproj.CoreCompileInputs.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\bin\Debug\net6.0\Seminar1_Numbers.exe
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\bin\Debug\net6.0\Seminar1_Numbers.deps.json
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\bin\Debug\net6.0\Seminar1_Numbers.runtimeconfig.json
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\bin\Debug\net6.0\Seminar1_Numbers.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\bin\Debug\net6.0\Seminar1_Numbers.pdb
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\Seminar1_Numbers.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\refint\Seminar1_Numbers.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\Seminar1_Numbers.pdb
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\Seminar1_Numbers.genruntimeconfig.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Numbers\obj\Debug\net6.0\ref\Seminar1_Numbers.dll
