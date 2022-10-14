@@ -1,0 +1,15 @@
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\Seminar1_Compare.csproj.AssemblyReference.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\Seminar1_Compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\Seminar1_Compare.AssemblyInfoInputs.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\Seminar1_Compare.AssemblyInfo.cs
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\Seminar1_Compare.csproj.CoreCompileInputs.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\bin\Debug\net6.0\Seminar1_Compare.exe
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\bin\Debug\net6.0\Seminar1_Compare.deps.json
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\bin\Debug\net6.0\Seminar1_Compare.runtimeconfig.json
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\bin\Debug\net6.0\Seminar1_Compare.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\bin\Debug\net6.0\Seminar1_Compare.pdb
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\Seminar1_Compare.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\refint\Seminar1_Compare.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\Seminar1_Compare.pdb
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\Seminar1_Compare.genruntimeconfig.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Compare\obj\Debug\net6.0\ref\Seminar1_Compare.dll
