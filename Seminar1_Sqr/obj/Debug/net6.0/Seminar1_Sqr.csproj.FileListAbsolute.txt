@@ -1,0 +1,15 @@
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\Seminar1_Sqr.csproj.AssemblyReference.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\Seminar1_Sqr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\Seminar1_Sqr.AssemblyInfoInputs.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\Seminar1_Sqr.AssemblyInfo.cs
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\Seminar1_Sqr.csproj.CoreCompileInputs.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\bin\Debug\net6.0\Seminar1_Sqr.exe
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\bin\Debug\net6.0\Seminar1_Sqr.deps.json
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\bin\Debug\net6.0\Seminar1_Sqr.runtimeconfig.json
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\bin\Debug\net6.0\Seminar1_Sqr.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\bin\Debug\net6.0\Seminar1_Sqr.pdb
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\Seminar1_Sqr.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\refint\Seminar1_Sqr.dll
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\Seminar1_Sqr.pdb
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\Seminar1_Sqr.genruntimeconfig.cache
+D:\Users\USER1\Desktop\Examples\Seminar1_Sqr\obj\Debug\net6.0\ref\Seminar1_Sqr.dll
