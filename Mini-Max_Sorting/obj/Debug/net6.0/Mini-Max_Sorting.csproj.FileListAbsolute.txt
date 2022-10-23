@@ -1,0 +1,15 @@
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\bin\Debug\net6.0\Mini-Max_Sorting.exe
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\bin\Debug\net6.0\Mini-Max_Sorting.deps.json
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\bin\Debug\net6.0\Mini-Max_Sorting.runtimeconfig.json
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\bin\Debug\net6.0\Mini-Max_Sorting.dll
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\bin\Debug\net6.0\Mini-Max_Sorting.pdb
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\Mini-Max_Sorting.csproj.AssemblyReference.cache
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\Mini-Max_Sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\Mini-Max_Sorting.AssemblyInfoInputs.cache
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\Mini-Max_Sorting.AssemblyInfo.cs
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\Mini-Max_Sorting.csproj.CoreCompileInputs.cache
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\Mini-Max_Sorting.dll
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\refint\Mini-Max_Sorting.dll
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\Mini-Max_Sorting.pdb
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\Mini-Max_Sorting.genruntimeconfig.cache
+D:\Users\USER1\Desktop\Lecture3\Mini-Max_Sorting\obj\Debug\net6.0\ref\Mini-Max_Sorting.dll
